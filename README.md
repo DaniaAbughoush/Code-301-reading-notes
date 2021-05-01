@@ -18,7 +18,7 @@ hello Ia am Dania Abughoush ,studied industrial engineering in hashimite univers
 |Reading02|[reading02 link](https://daniaabughoush.github.io/Code-301-reading-notes/read02)|
 |Reading03|[reading03 link](https://daniaabughoush.github.io/Code-301-reading-notes/read03)|
 |Reading04|[reading04 link](https://daniaabughoush.github.io/Code-301-reading-notes/read04)|
-|Reading05||
+|Reading05|[reading05 link](https://daniaabughoush.github.io/Code-301-reading-notes/read05)|
 |Reading06||
 |Reading08||
 |Reading07||
@@ -27,3 +27,8 @@ hello Ia am Dania Abughoush ,studied industrial engineering in hashimite univers
 |Reading11||
 |Reading12||
 |Reading13||
+
+
+## Things I want to know more about
+
+i need to learn more about using components and feature in react
