@@ -28,3 +28,7 @@ Now that we know what Node and npm are and how to install them, we can turn our 
 Social skills
 # How does pair programming work?
 while there are many different styles, pair programming commonly involves two roles: the Driver and the Navigator. The Driver is the programmer who is typing and the only one whose hands are on the keyboard. Handling the “mechanics” of coding, the Driver manages the text editor, switching files, version control, and—of course writing—code. The Navigator uses their words to guide the Driver but does not provide any direct input to the computer.
+
+# Things I want to know more about
+i want to know more about their usage
+
