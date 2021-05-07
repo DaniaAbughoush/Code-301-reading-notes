@@ -5,7 +5,21 @@ React is a declarative, efficient, and flexible JavaScript library for building 
 1. Square
 1. Board
 1. Game
+ 1. starter code:
+`class Square extends React.Component {`
+ ` render() {`
+   ` return (`
+      `<button className="square">`
+        `{/* TODO */}`
+      `</button>`
+    `);`
+  `}`
+`}`
 
+`class Board extends React.Component {`
+  `renderSquare(i) {`
+    `return <Square />;`
+  `}`
 in the toturiol it showed us how to build a tiktak game.
 
 # JSX

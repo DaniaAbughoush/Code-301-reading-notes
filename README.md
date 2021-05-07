@@ -19,7 +19,6 @@ hello Ia am Dania Abughoush ,studied industrial engineering in hashimite univers
 |Reading03|[reading03 link](https://daniaabughoush.github.io/Code-301-reading-notes/read03)|
 |Reading04|[reading04 link](https://daniaabughoush.github.io/Code-301-reading-notes/read04)|
 |Reading05|[reading05 link](https://daniaabughoush.github.io/Code-301-reading-notes/read05)|
-|Reading06||
 |Reading08||
 |Reading07||
 |Reading09||
