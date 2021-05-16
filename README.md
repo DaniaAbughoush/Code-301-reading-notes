@@ -21,14 +21,14 @@ hello Ia am Dania Abughoush ,studied industrial engineering in hashimite univers
 |Reading05|[reading05 link](https://daniaabughoush.github.io/Code-301-reading-notes/read05)|
 |Reading06|[reading06 link](https://daniaabughoush.github.io/Code-301-reading-notes/read06)|
 |Reading07|[reading07 link](https://daniaabughoush.github.io/Code-301-reading-notes/read07)|
-|Reading07||
-|Reading09||
-|Reading10||
-|Reading11||
-|Reading12||
+|Reading08|[reading08 link](https://daniaabughoush.github.io/Code-301-reading-notes/read08)|
+|Reading09|[reading09 link](https://daniaabughoush.github.io/Code-301-reading-notes/read09)|
+|Reading10|[reading10 link](https://daniaabughoush.github.io/Code-301-reading-notes/read10)|
+|Reading11|[reading11 link](https://daniaabughoush.github.io/Code-301-reading-notes/read11)|
+|Reading12|[reading12 link](https://daniaabughoush.github.io/Code-301-reading-notes/read12)||
 |Reading13||
 
 
-## Things I want to know more about
+# Things I want to know more about
 
 i need to learn more about using components and feature in react
